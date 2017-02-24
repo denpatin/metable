@@ -1,3 +1,4 @@
+@echo off
 if %3.==. (
   echo Three parameters are needed: DB user, DB password, and DB name.
 ) else (
